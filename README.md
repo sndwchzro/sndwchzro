@@ -7,7 +7,7 @@ I'm a developer who enjoys building things with code — from chatbots to blockc
 ## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/8c14a6ca-77b4-4062-ba64-f10c84fc2199/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/5e85f98f-2786-40bf-8aa4-7f1ba9ef7822/image.png" alt="AI Skills Fest 2026 Badge" width="120"/>
+  <img src="[https://images.credly.com/size/340x340/images/5e85f98f-2786-40bf-8aa4-7f1ba9ef7822/image.png](https://images.credly.com/size/110x110/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)" alt="AI Skills Fest 2026 Badge" width="120"/>
 </a>
 
 **[AI Skills Fest 2026](https://www.credly.com/badges/8c14a6ca-77b4-4062-ba64-f10c84fc2199/public_url)** — Issued by Microsoft
