@@ -1,4 +1,4 @@
-# Hello there, I'm Rex 👋
+# Hello there, I'm Rex👋
 
 I'm a software engineer who builds frontend apps with Next.js, automates QA with Playwright, and keeps repos healthy and secure — with AI baked into every step of my workflow. Storm's closing in but my PR's not merged yet. 🎮
 
@@ -22,6 +22,7 @@ I'm a software engineer who builds frontend apps with Next.js, automates QA with
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
