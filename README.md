@@ -12,6 +12,10 @@ I'm a software engineer who builds frontend apps with Next.js, automates QA with
 
 **[AI Skills Fest 2026](https://www.credly.com/badges/8c14a6ca-77b4-4062-ba64-f10c84fc2199/public_url)** — Issued by Microsoft
 
+**[Claude 101](https://verify.skilljar.com/c/b5j9ij5wxxeo)** — Issued by Anthropic Education *(June 3, 2026)*
+
+**[Claude Code 101](https://verify.skilljar.com/c/2vahz8fihxhy)** — Issued by Anthropic Education *(June 24, 2026)*
+
 ---
 
 ## 🛠️ Tech Stack
@@ -36,3 +40,4 @@ I'm a software engineer who builds frontend apps with Next.js, automates QA with
 ---
 
 *One does not simply push to main. 🧙*
+
